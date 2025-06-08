@@ -49,7 +49,7 @@ src/
 1. Clone the repository:
 
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/Gautam2117/react_admin_dashboard.git
    ```
 
 2. Install dependencies:
