@@ -1,5 +1,7 @@
 # 📊 Week 3 Assignment – React Admin Dashboard
 
+![Admin Dashboard Screenshot](https://raw.githubusercontent.com/Gautam2117/react_admin_dashboard/master/admin_dashboard.png)
+
 ## 📝 Description
 
 This project is a **React Admin Dashboard** built as part of **Week 3 of the Celebal Summer Internship**. It showcases a clean and modern user interface with essential administrative components, providing a smooth and interactive experience.
